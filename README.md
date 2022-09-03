@@ -18,7 +18,7 @@
 [<img align="left" alt="MuhammadKamranVirk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="MuhammadKamranVirk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/https:/@_Kami_Virk
+[twitter]: https://twitter.com/_Kami_Virk?t=DGg5mnBVP6NoiFqJSLZZ8A&s=08
 [instagram]: https://www.instagram.com/invites/contact/?i=l5bmw6f0byd5&utm_content=3f4hxhs
 [linkedin]: https://www.linkedin.com/in/muhammad-kamran-virk-42295719b
 
