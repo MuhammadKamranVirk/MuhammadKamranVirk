@@ -9,7 +9,7 @@
 
 <h2>📺 Experience</h2>
 
-- [I have two years plus of experience in this field.]()
+- [I have four years plus of experience in this field.]()
 
 
 <h2> 🤳 Connect with me:</h2>
